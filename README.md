@@ -10,4 +10,5 @@ Image Work is a python project based on openCV to denoise an image.
 
 ![Samples](img/Samples.png)
 
+## Output Screen
 ![Ouput](img/output%20screen.png)
